@@ -19,7 +19,7 @@ function Home() {
      });
  }, []);
 
-console.log(Allmovies)
+
 
 
 
